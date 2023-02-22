@@ -6,6 +6,7 @@ public class NewClass {
 
 System.out.print("Hi");
 
+System.out.print("one");
 
 	}
 
